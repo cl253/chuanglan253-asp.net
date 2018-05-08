@@ -10,6 +10,6 @@ asp.net(c#) demo  目前就是基于最新常用的BS端的
  网页Html： Post.aspx
  后台代码： Post.aspx.cs
 
-普通短信 变量短信 群发直接号码之间用逗号隔开  
+ 普通短信 变量短信 群发直接号码之间用逗号隔开  
 
-     请联系我们：http://www.253.com
+  对接中出现问题,请联系我们：http://www.253.com
